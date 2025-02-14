@@ -82,7 +82,7 @@ h1, h2, .navbar-brand {
 /*Landing/Hero Section CSS*/
 
 /* Section Styling */
-#landing {
+#hero {
  	position: relative;
     height: 100vh; /* Fullscreen height */
     overflow: hidden;
